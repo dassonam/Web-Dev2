@@ -1,1 +1,1 @@
-System.out.println("Java Test Script - Version 1");
+System.out.println("Java Test Script - Version 2");
